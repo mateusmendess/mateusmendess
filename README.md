@@ -1,6 +1,6 @@
 # Olá, eu sou o Mateus 👋
 
-🎓 Estudante de Sistemas de Informação (7º período) na UniCEUMA
+🎓 Estudante de Sistemas de Informação (8º período) na UniCEUMA
 💻 Desenvolvedor Júnior focado em **Python** (Django & Flask) e desenvolvimento web full stack
 🎯 Buscando oportunidade remota como desenvolvedor júnior no Brasil
 🛠️ Operador de Computador na CEUMA — atuando com suporte técnico, infraestrutura e resolução de problemas em ambiente de domínio
